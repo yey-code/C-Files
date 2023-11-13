@@ -1,0 +1,2 @@
+
+    char terminate; //for exitProgram()
